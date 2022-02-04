@@ -1,4 +1,4 @@
-# AjMaLo QiNgx
+Ok# AjMaLo QiNgx
 # Writer : Muhammad Kashif
 # FB : Muhammad Kazhif
 import itertools, threading, time, sys, os
